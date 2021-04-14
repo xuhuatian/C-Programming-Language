@@ -1,0 +1,6 @@
+﻿  学生管理系统.cpp
+C:\Users\古神的祝福\source\repos\C-Programming-Language\zhixue\zhixue\学生管理系统.cpp(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\古神的祝福\source\repos\C-Programming-Language\zhixue\zhixue\学生管理系统.cpp(31,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\古神的祝福\source\repos\C-Programming-Language\zhixue\zhixue\学生管理系统.cpp(34,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\古神的祝福\source\repos\C-Programming-Language\zhixue\zhixue\学生管理系统.cpp(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  zhixue.vcxproj -> C:\Users\古神的祝福\source\repos\C-Programming-Language\zhixue\Debug\zhixue.exe
